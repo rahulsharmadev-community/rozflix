@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "550738319156",
+    "firebase_url": "https://rozflix-p2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rozflix-p2",
+    "storage_bucket": "rozflix-p2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550738319156:android:ac34f3e0352202ee61f761",
+        "android_client_info": {
+          "package_name": "com.rahulsharmadev.rozflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550738319156-43t2l3d7rljn48eohn02g36qus88c1gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzNYog421X5Q6OiZv2eeovIAXi2WmsQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550738319156-43t2l3d7rljn48eohn02g36qus88c1gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
